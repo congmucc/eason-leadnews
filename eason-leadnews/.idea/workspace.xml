@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50c2e100-e67f-4af7-82cb-8d294b484a2f" name="Changes" comment="" />
+    <list default="true" id="50c2e100-e67f-4af7-82cb-8d294b484a2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-article/src/main/java/com/eason/article/service/impl/ApArticleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-article/src/main/java/com/eason/article/service/impl/ApArticleServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,6 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -66,7 +73,9 @@
       <workItem from="1709659076172" duration="751000" />
       <workItem from="1709712940712" duration="1955000" />
       <workItem from="1709722334653" duration="6197000" />
-      <workItem from="1709788330470" duration="4108000" />
+      <workItem from="1709788330470" duration="4109000" />
+      <workItem from="1709815865452" duration="662000" />
+      <workItem from="1709817555288" duration="985000" />
     </task>
     <servers />
   </component>
