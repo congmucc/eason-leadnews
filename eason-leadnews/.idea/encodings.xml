@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/eason-leadnews-basic/eason-file-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-feign-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-gateway/eason-leadnews-admin-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-gateway/eason-leadnews-app-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-gateway/eason-leadnews-wemedia-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-behavior/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/eason-leadnews-wemedia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/es-init/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/freemarker-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/kafka-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/minio-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/mongo-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-test/xxljob-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eason-leadnews-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

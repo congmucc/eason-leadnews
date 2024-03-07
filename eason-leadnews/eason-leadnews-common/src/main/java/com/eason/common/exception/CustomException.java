@@ -1,0 +1,16 @@
+package com.eason.common.exception;
+
+import com.eason.model.common.enums.AppHttpCodeEnum;
+
+public class CustomException extends RuntimeException {
+
+    private AppHttpCodeEnum appHttpCodeEnum;
+
+    public CustomException(AppHttpCodeEnum appHttpCodeEnum){
+        this.appHttpCodeEnum = appHttpCodeEnum;
+    }
+
+    public AppHttpCodeEnum getAppHttpCodeEnum() {
+        return appHttpCodeEnum;
+    }
+}
